@@ -1,10 +1,2 @@
-hello mark
-hello again
-hello again3
+deleted all the lines
 
-hello4
-
-hello hello
-hello mark
-last line
-really its the last !
